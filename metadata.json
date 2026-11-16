@@ -1,0 +1,6 @@
+{
+  "name": "MediGuide",
+  "description": "Offline-first mobile health assistant with medication schedules, dose state tracking, refill alerts, Mother & Baby and Elder care modules, biometric lock, multilingual support, and local AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
